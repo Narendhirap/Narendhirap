@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Narendhirap
 - 👀 I’m interested in Science, technology and stuffs
-- 🌱 I’m currently learning on cloud technologies, building affordable/ innovative software on open source and still figuring out on what to stick with
+- 🌱 I’m currently learning on cloud technologies, building affordable/ innovative software on open source and still figuring out on what to stick with.
 - 📫 How to reach me @www.mylifestunts.com
 
 <!---
